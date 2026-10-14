@@ -1,3 +1,12 @@
+<div align="center">
+
+![Wintercle](docs/afis.svg)
+
+[![Canlı demo](https://img.shields.io/badge/▶_Aç-odaklan-4fb3e0?style=for-the-badge)](https://enskygr234.github.io/wintercle/)
+[![Lisans](https://img.shields.io/badge/lisans-MIT-e63946?style=for-the-badge)](LICENSE)
+
+</div>
+
 # ❄ Wintercle
 
 **Kar yağışı altında sakin bir odak zamanlayıcısı.** *winter + circle*
