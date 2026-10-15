@@ -7,6 +7,12 @@
 
 </div>
 
+<!-- ENS:TANITIM -->
+## 📸 Ekran görüntüsü
+
+<img src="docs/ekran.png" width="100%" alt="Wintercle ekran görüntüsü">
+<!-- /ENS:TANITIM -->
+
 # ❄ Wintercle
 
 **Kar yağışı altında sakin bir odak zamanlayıcısı.** *winter + circle*
@@ -54,3 +60,19 @@ app.js       zamanlayıcı, kar animasyonu, ses, i18n
 ## Lisans
 
 [MIT](LICENSE)
+
+<!-- ENS:ALT -->
+---
+
+<div align="center">
+
+**❄️ ENS Developer'ın diğer projeleri**
+
+🌐 Web: [Buz Şifre](https://github.com/Enskygr234/buz-sifre) · [Piksel Ayaz](https://github.com/Enskygr234/piksel-ayaz) · [Kar Tanesi](https://github.com/Enskygr234/kar-tanesi) · [Nardugan](https://github.com/Enskygr234/nardugan) · [kar.js](https://github.com/Enskygr234/kar-js)
+
+[🌐 Bütün projeler](https://enskygr234.github.io/ensdewloper.github.io/) · [👤 GitHub profilim](https://github.com/Enskygr234)
+
+<sub>Kış gelir, kod yazılır.</sub>
+
+</div>
+<!-- /ENS:ALT -->
